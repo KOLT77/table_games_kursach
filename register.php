@@ -10,7 +10,7 @@
                   <?php 
                      $login=htmlspecialchars($_POST['login']);
                      $password=htmlspecialchars($_POST['password']);
-                     $logins=file('logins3Fd2D093F23d5FQ2O2.txt', FILE_IGNORE_NEW_LINES);
+                     $logins=file('files/logins3Fd2D093F23d5FQ2O2.txt', FILE_IGNORE_NEW_LINES);
 
                      for ($i=0; $i<count($logins); $i++)
                      {
