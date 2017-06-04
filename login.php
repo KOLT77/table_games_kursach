@@ -22,7 +22,7 @@
                      		exit;
                      	}
                      }
-                     echo '<p align="center" style="font-size:28px;color:#fff;"><b>Ошибка ввода, Попробуйте снова</b></p>';
+                     echo '<p align="center" style="font-size:28px;color:#000;"><b>Ошибка ввода, Попробуйте снова</b></p>';
                      ?>
                </div>
             </div>
